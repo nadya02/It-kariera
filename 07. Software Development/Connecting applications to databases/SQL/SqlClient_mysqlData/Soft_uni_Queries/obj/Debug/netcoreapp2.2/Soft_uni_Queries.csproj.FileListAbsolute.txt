@@ -1,0 +1,10 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\bin\Debug\netcoreapp2.2\Soft_uni_Queries.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\bin\Debug\netcoreapp2.2\Soft_uni_Queries.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\bin\Debug\netcoreapp2.2\Soft_uni_Queries.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\bin\Debug\netcoreapp2.2\Soft_uni_Queries.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\obj\Debug\netcoreapp2.2\Soft_uni_Queries.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\obj\Debug\netcoreapp2.2\Soft_uni_Queries.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\obj\Debug\netcoreapp2.2\Soft_uni_Queries.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\bin\Debug\netcoreapp2.2\Soft_uni_Queries.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\obj\Debug\netcoreapp2.2\Soft_uni_Queries.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlClient_mysqlData\Soft_uni_Queries\obj\Debug\netcoreapp2.2\Soft_uni_Queries.pdb

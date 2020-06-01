@@ -1,0 +1,11 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\bin\Debug\netcoreapp2.2\Change the register of city names.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\bin\Debug\netcoreapp2.2\Change the register of city names.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\bin\Debug\netcoreapp2.2\Change the register of city names.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\bin\Debug\netcoreapp2.2\Change the register of city names.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\bin\Debug\netcoreapp2.2\Change the register of city names.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SQL\Minions_SqlData\Change the register of city names\obj\Debug\netcoreapp2.2\Change the register of city names.pdb

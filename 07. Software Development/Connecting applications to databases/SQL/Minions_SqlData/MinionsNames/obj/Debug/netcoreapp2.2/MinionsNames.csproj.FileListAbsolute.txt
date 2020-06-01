@@ -1,0 +1,10 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.pdb

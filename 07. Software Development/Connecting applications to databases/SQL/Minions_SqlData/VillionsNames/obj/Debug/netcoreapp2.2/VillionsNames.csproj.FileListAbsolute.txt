@@ -1,0 +1,10 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\bin\Debug\netcoreapp2.2\VillionsNames.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\bin\Debug\netcoreapp2.2\VillionsNames.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\bin\Debug\netcoreapp2.2\VillionsNames.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\bin\Debug\netcoreapp2.2\VillionsNames.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\obj\Debug\netcoreapp2.2\VillionsNames.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\obj\Debug\netcoreapp2.2\VillionsNames.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\obj\Debug\netcoreapp2.2\VillionsNames.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\bin\Debug\netcoreapp2.2\VillionsNames.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\obj\Debug\netcoreapp2.2\VillionsNames.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\Minions_SqlData\VillionsNames\obj\Debug\netcoreapp2.2\VillionsNames.pdb

@@ -1,0 +1,8 @@
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\bin\Debug\netcoreapp2.2\Softuni_sqlClient.deps.json
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\bin\Debug\netcoreapp2.2\Softuni_sqlClient.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\bin\Debug\netcoreapp2.2\Softuni_sqlClient.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\bin\Debug\netcoreapp2.2\Softuni_sqlClient.dll
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\obj\Debug\netcoreapp2.2\Softuni_sqlClient.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\obj\Debug\netcoreapp2.2\Softuni_sqlClient.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\obj\Debug\netcoreapp2.2\Softuni_sqlClient.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\Softuni_mysqlData\Softuni_sqlClient\obj\Debug\netcoreapp2.2\Softuni_sqlClient.AssemblyInfo.cs

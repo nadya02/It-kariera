@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\bin\Debug\netcoreapp2.1\NonSqlInjection.deps.json
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\bin\Debug\netcoreapp2.1\NonSqlInjection.runtimeconfig.json
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\bin\Debug\netcoreapp2.1\NonSqlInjection.runtimeconfig.dev.json
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\bin\Debug\netcoreapp2.1\NonSqlInjection.dll
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.AssemblyInfo.cs
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\bin\Debug\netcoreapp2.1\NonSqlInjection.pdb
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.dll
+C:\Users\User\Desktop\SqlInjection\NonSqlInjection\obj\Debug\netcoreapp2.1\NonSqlInjection.pdb

@@ -1,0 +1,15 @@
+D:\My Documents\Informatika  - C#\IT Kariera - VII modul - SoftDev\7.Свързване-на-приложения-с-бази-от-данни\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT Kariera - VII modul - SoftDev\7.Свързване-на-приложения-с-бази-от-данни\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT Kariera - VII modul - SoftDev\7.Свързване-на-приложения-с-бази-от-данни\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.AssemblyInfoInputs.cache
+D:\My Documents\Informatika  - C#\IT Kariera - VII modul - SoftDev\7.Свързване-на-приложения-с-бази-от-данни\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\bin\Debug\netcoreapp2.2\CodeFIrst0.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\bin\Debug\netcoreapp2.2\CodeFIrst0.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\bin\Debug\netcoreapp2.2\CodeFIrst0.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\bin\Debug\netcoreapp2.2\CodeFIrst0.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\bin\Debug\netcoreapp2.2\CodeFIrst0.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\CodeFIrst0\CodeFIrst0\obj\Debug\netcoreapp2.2\CodeFIrst0.pdb

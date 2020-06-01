@@ -1,0 +1,12 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\bin\Debug\netcoreapp2.2\CRUD App Without ORM.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\bin\Debug\netcoreapp2.2\CRUD App Without ORM.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\bin\Debug\netcoreapp2.2\CRUD App Without ORM.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\bin\Debug\netcoreapp2.2\CRUD App Without ORM.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\bin\Debug\netcoreapp2.2\CRUD App Without ORM.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\CRUD App Without ORM\CRUD App Without ORM\obj\Debug\netcoreapp2.2\CRUD App Without ORM.genruntimeconfig.cache

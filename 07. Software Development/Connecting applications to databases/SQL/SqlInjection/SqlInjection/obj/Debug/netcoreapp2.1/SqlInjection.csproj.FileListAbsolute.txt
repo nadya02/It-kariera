@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.deps.json
+C:\Users\User\Desktop\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.json
+C:\Users\User\Desktop\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.dev.json
+C:\Users\User\Desktop\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.dll
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfo.cs
+C:\Users\User\Desktop\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.pdb
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.dll
+C:\Users\User\Desktop\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\bin\Debug\netcoreapp2.1\SqlInjection.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\SqlInjection\SqlInjection\obj\Debug\netcoreapp2.1\SqlInjection.pdb

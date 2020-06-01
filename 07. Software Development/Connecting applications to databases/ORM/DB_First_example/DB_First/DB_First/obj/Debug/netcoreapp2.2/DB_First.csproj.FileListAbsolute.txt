@@ -1,0 +1,19 @@
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\New folder\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.deps.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.runtimeconfig.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.runtimeconfig.dev.json
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\bin\Debug\netcoreapp2.2\DB_First.pdb
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.csprojAssemblyReference.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.csproj.CoreCompileInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.AssemblyInfoInputs.cache
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.AssemblyInfo.cs
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.dll
+D:\Nadya\It-kariera\modul 7\7.Свързване-на-приложения-с-бази-от-данни\ORM\DB_First_example\DB_First\DB_First\obj\Debug\netcoreapp2.2\DB_First.pdb
