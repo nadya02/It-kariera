@@ -1,7 +1,7 @@
-﻿using Histogram.Controllers;
+﻿using Division_without_residue.Controllers;
 using System;
 
-namespace Histogram
+namespace Division_without_residue
 {
     class Program
     {
